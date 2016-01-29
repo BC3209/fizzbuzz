@@ -1,9 +1,5 @@
 def fizzbuzz(number)
-  fizz(
-    buzz(
-      fizzbuzzy(number)
-    )
-  )
+  fizz buzz fizzbuzzy(number)
 end
 
 def fizz(num)
